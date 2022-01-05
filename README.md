@@ -26,7 +26,7 @@
 <p>2° - Abra a pasta pd-buscar instale as dependencias na pasta e inicie o projeto</p>
 
 ```bash
-   cd pdbuscar && npm && npm start
+   cd pd-buscar && npm && npm start
 ```
 
 <h2> Bibliotecas / Linguagens</h2>
