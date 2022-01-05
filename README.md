@@ -39,4 +39,4 @@
 * [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start) - O React Router é uma biblioteca para controle de rotas.
 * [styled-components](https://styled-components.com/) - styled-components é uma biblioteca para React e React Native que permite que você use estilos ao nível de componente na sua aplicação.
 * [axios](https://axios-http.com/docs/intro) - Axios é um cliente HTTP baseado em promessas para o node. js e para o navegador.
-* O icone foi retirado da pagina do Facebook da empresa PDSoluções
+* O icone foi retirado da pagina do Facebook da empresa PDSoluções.
