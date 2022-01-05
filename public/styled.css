@@ -1,0 +1,60 @@
+
+    body {
+      background-color: rgb(122, 121, 121);
+      margin: 0;
+    }
+    h1{
+      text-decoration-color: black;
+      color: rgb(12, 12, 12);
+    }
+
+    h2 {
+      text-decoration-color: black;
+      color: rgb(12, 12, 12);
+    }
+
+    div id {
+      position:relative;
+      color: rgb(15, 15, 15);
+    }
+
+    Button {
+      position: relative;
+      border-radius: 16px;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    .header {
+      background-color: #a18484;
+      padding: 20px;
+      text-align: center;
+      border-radius: 16px;
+      box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    }
+
+    .topnav {
+      position: relative;
+      overflow:auto;
+      text-align:center;
+      border-radius: 16px;
+      padding: 12px 50px;
+      background-color: rgb(10, 10, 10);
+    }
+
+    .topnav a {
+      float: left;
+      display: block;
+      color: #f1f1f1;
+      text-align:center;
+      padding: 14px 16px;
+      text-decoration: none;
+    }
+
+    .topnav a:hover {
+      border-radius: 16px;
+      background-color: rgb(216, 215, 215);
+      color: black;
+    }
