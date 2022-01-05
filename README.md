@@ -23,7 +23,7 @@
 
 </br>
 
-<p>2° - Abra a pasta pdsolucoes instale as dependencias na pasta e inicie o projeto</p>
+<p>2° - Abra a pasta pd-buscar instale as dependencias na pasta e inicie o projeto</p>
 
 ```bash
    cd pdbuscar && npm && npm start
