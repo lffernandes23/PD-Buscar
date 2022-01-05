@@ -1,4 +1,4 @@
-# pdQuery - pdsoluções
+# PD Buscar - pdsoluções
 
 <h3>Este projeto foi realizado utilizando React Js, Typescript e styled-components, que consistem em consultar a API <a target="_blank" href="https://www.boredapi.com/">Bored API</a> para buscar uma atividade para ser realizada.</h3>
 
